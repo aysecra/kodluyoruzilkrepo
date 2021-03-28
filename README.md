@@ -1,17 +1,19 @@
 # Kodluyoruz Ilk Repo </br> 
-</br>Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor. </br></br>
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 ## Installation
-<br/>Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek) <br/>
-`git clone https://github.com/aysecra/kodluyoruzilkrepo.git`
-<br/>
+Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+```
+git clone https://github.com/aysecra/kodluyoruzilkrepo.git
+```
 ## Usage
-<br/>Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
-<br/><br/>Linux için: <br/>
+<br/>Projeyi cloneladıktan sonra Visual Studio Code programında açınız.<br/>
+Linux için: <br/>
 ```
 cd kodluyoruzilkrepo
 code .
 ``` 
 ## Contributing
-<br/> Pull requester kabul edilir. Büyük değişiklikler için, lütfen neyi değiştirmek istediğinizi tartışmak için bir konu açınız. <br/>
+Pull requester kabul edilir. Büyük değişiklikler için, lütfen neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 ## License 
-<br/>[MIT](https://github.com/aysecra/kodluyoruzilkrepo/blob/master/LICENSE) 
+[MIT](https://opensource.org/licenses/MIT) <br/>
+<br/><br/> ![Sample Project Image](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
